@@ -18,3 +18,10 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+viet 1 vai thu de test cau 2 fun newInstance(): {
+    val args = Bundle()
+    
+    val fragment = ()
+    fragment.arguments = args
+    return fragment
+}
