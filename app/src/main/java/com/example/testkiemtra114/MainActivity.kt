@@ -26,3 +26,5 @@ viet 1 vai thu de test cau 2 fun newInstance(): {
     return fragment
 }
 tiep theo lai viet 1 it nua neee
+
+        cai nay la khong biet viet gi nua neeee
