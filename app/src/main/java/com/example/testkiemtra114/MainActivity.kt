@@ -25,3 +25,4 @@ viet 1 vai thu de test cau 2 fun newInstance(): {
     fragment.arguments = args
     return fragment
 }
+tiep theo lai viet 1 it nua neee
